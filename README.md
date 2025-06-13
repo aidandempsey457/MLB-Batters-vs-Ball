@@ -18,6 +18,17 @@ The code will automatically create folders in the same directory as your script:
 
 ---
 
+## 📚 Dependencies
+
+This project makes extensive use of [pybaseball](https://github.com/jldbc/pybaseball), an open-source Python package for accessing baseball data including Statcast, PitchFX, and more.
+
+You can install it with:
+
+```bash
+pip install pybaseball
+
+---
+
 ## 🚀 How to Run
 
 1. Clone the repository
