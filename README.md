@@ -1,5 +1,10 @@
 # MLB-Batters-vs-Ball
 This project analyzes Statcast data to understand how MLB batters perform against different types of pitches, independent of the individual pitchers who throw them.
+This data is from the 2025 MLB season to:
+- Cluster pitchers using pitch-level metrics
+- Analyze batter performance vs. clusters
+- Calculate advanced stats like wOBA, wRAA, and WAR
+- Output relational Excel files
 
 
 --
